@@ -11242,11 +11242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sreed\\source\\repos\\Azure\\TicketBookingApplication\\TicketBookingApplication\\TicketBookingApplication.csproj",
+      "projectUniqueName": "C:\\Users\\sreed\\source\\repos\\Azure\\busticket\\TicketBookingApplication\\TicketBookingApplication.csproj",
       "projectName": "TicketBookingApplication",
-      "projectPath": "C:\\Users\\sreed\\source\\repos\\Azure\\TicketBookingApplication\\TicketBookingApplication\\TicketBookingApplication.csproj",
+      "projectPath": "C:\\Users\\sreed\\source\\repos\\Azure\\busticket\\TicketBookingApplication\\TicketBookingApplication.csproj",
       "packagesPath": "C:\\Users\\sreed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sreed\\source\\repos\\Azure\\TicketBookingApplication\\TicketBookingApplication\\obj\\",
+      "outputPath": "C:\\Users\\sreed\\source\\repos\\Azure\\busticket\\TicketBookingApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
